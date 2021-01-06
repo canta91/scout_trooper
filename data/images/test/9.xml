@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>9.jpg</filename>
+	<path>E:\Progetti\scout_trooper\data\images\9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>licenceplate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>656</xmin>
+			<ymin>382</ymin>
+			<xmax>713</xmax>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>
